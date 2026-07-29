@@ -214,5 +214,12 @@ marimo/_static/
 marimo/_lsp/
 __marimo__/
 
+# Claude Code
+.claude
+
 # Streamlit
 .streamlit/secrets.toml
+
+.mcp.json
+
+docs
